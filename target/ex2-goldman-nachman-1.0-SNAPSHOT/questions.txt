@@ -1,0 +1,3 @@
+Bootstrap form input: prevent submit, but allow for input checking
+Bootstrap class defined in HTML not appearing in DOM?
+HTML : Pills and Anchor Role with the same id

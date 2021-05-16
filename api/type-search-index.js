@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.example","l":"AddAnswerTOArraay"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.example","l":"QandA"},{"p":"com.example","l":"SendAnswers"},{"p":"com.example","l":"ShowQuestions"},{"p":"com.example","l":"WriteAnswer"}];updateSearchResults();
