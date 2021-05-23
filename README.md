@@ -1,5 +1,5 @@
 # question-and-answer
-## The site displays a list of questions stored in the file. Users can read questions and answers, and answer questions.
+## A Java program, a site that displays a list of questions stored in the file. Users can read questions and answers, and answer questions.
 [Java Doc](api/com/example/package-summary.html)
 
 I built map to store the questions and answers, the index (or key) is the index of the question,  
